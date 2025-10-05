@@ -34,11 +34,6 @@ The dataset (`laptop_price.csv`) contains information about laptops, including:
 - **RMSE**: Root Mean Squared Error for prediction accuracy.
 - **Cross-validation**: Ensures model generalization.
 
-## Predicted vs Actual Prices
-
-![Predicted vs Actual Prices](predicted_vs_actual.png)
-
-The above plot shows the relationship between predicted and actual laptop prices. The closer the points are to the red dashed line, the better the model's predictions.
 
 ## How to Run
 
